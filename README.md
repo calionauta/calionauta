@@ -5,7 +5,6 @@
 │  how can we create lighter, more adaptive   │
 │  systems for work — and life?               │
 │                                             │
-│  74 public repos · 0 stars. your move.      │
 │  digital gardening, not a storefront        │
 └─────────────────────────────────────────────┘
 ```
@@ -74,6 +73,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 |-------|--------|-------------|
 | `cali-agents-md-generator` | 📝 workflow | generate / maintain project AGENTS.md |
 | `cali-agents-md-validator` | 📝 workflow | validate AGENTS.md against best practices |
+| `cali-coding-standards` | 💻 coding | universal principles — KISS, DRY, LoB, SoC, Fail Fast + size limits & CI enforcement |
 | `cali-deploy-github-tailscale` | 🚀 ops | deploy to private servers via tailscale |
 | `cali-docker-server-dashboard` | 🚀 ops | server discovery & real-time docker dashboard |
 | `cali-github-releases` | 🚀 ops | github release automation |
