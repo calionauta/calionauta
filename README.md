@@ -48,12 +48,12 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 | project | description |
 |---------|-------------|
-| 🔧 [pi-tool-repair-layer](https://github.com/renatocaliari/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
-| 🤖 [cali-product-workflow](https://github.com/renatocaliari/cali-product-workflow) | structured product planning workflow for ai agents |
-| ⚡ [starhtml-skill](https://github.com/renatocaliari/starhtml-skill) | ai agent skill + static analyzer for starhtml |
-| 🐍 [htpy-lsp](https://github.com/renatocaliari/htpy-lsp) | lsp server for validating htpy coding |
 | 🔄 [agent-sync](https://github.com/renatocaliari/agent-sync) | agent configuration sync ecosystem |
 | 🌐 [agent-sync-public](https://github.com/renatocaliari/agent-sync-public) | public-facing agent sync & skill distribution |
+| 🤖 [cali-product-workflow](https://github.com/renatocaliari/cali-product-workflow) | structured product planning workflow for ai agents |
+| 🐍 [htpy-lsp](https://github.com/renatocaliari/htpy-lsp) | lsp server for validating htpy coding |
+| 🔧 [pi-tool-repair-layer](https://github.com/renatocaliari/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
+| ⚡ [starhtml-skill](https://github.com/renatocaliari/starhtml-skill) | ai agent skill + static analyzer for starhtml |
 
 —
 
@@ -61,7 +61,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 i write at **[🛸 espaço calionauta](https://calirenato82.substack.com/)** — reflections on philosophy, habits, narrative, culture, and life.
 
-sections: `🧪 laboratório de vida` · `🐙 tentaculus` (culture, product, jtbd) · `🤖 prompts i.a.` · `📜 coleção de citações`
+sections: `🧪 life lab` · `🐙 tentaculus` (culture, product, jtbd) · `🤖 ai prompts` · `📜 quote collection`
 
 other places:
 - 🌐 [renatocaliari.com](https://www.renatocaliari.com/) — narrative therapy & facilitation
@@ -102,4 +102,4 @@ focus:   product strategy · ai agents · jtbd · organizational design
 
 
 
-> *prefiro perguntas a respostas, observações a avaliações, confirmação a suposições.*
+> *i prefer questions over answers, observations over evaluations, and confirmation over assumptions.*
