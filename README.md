@@ -10,7 +10,7 @@
 └─────────────────────────────────────────────┘
 ```
 
-**📋 explore this garden**
+**📋 sections**
 
 | | |
 |---|---|
@@ -18,7 +18,6 @@
 | 🛠️ [what i build with](#️-what-i-build-with-lately) | 📦 [pinned projects](#-pinned-projects) |
 | 🧰 [narrative tools](#-narrative-tools-private) | 📖 [free e-books](#-free-e-books-brazilian-portuguese) |
 | 📝 [writing & thinking](#-writing--thinking) | 🔭 [explorations](#-current-explorations) |
-| 📊 [github activity](#-github-activity) | |
 
 ---
 
@@ -152,26 +151,3 @@ other places:
 - lighter organizational rituals and structures
 - minimalism, strength training, whole food plant based
 - life without goals — systems and practices instead
-
----
-
-### 📊 github activity
-
-```
-repos: 74 public repositories · started: 2012  
-focus: product strategy · ai agents · jtbd · organizational design  
-```
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=renatocaliari&show_icons=true&theme=dark&hide_border=true&hide_title=true&hide=issues&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=renatocaliari&show_icons=true&theme=default&hide_border=true&hide_title=true&hide=issues&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=renatocaliari&show_icons=true&theme=default&hide_border=true&hide_title=true&hide=issues&count_private=true" />
-</picture>
-
-> *i prefer questions over answers, observations over evaluations, and confirmation over assumptions.*
