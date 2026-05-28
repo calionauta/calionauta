@@ -60,7 +60,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | `cali-server-security` | 🔒 ops | server security audit and hardening |
 | `cali-skill-validator` | 📝 workflow | validate agent skills against best practices |
 | `skill-creator` | 📝 workflow | create, modify, and evaluate agent skills |
-| [and more](https://github.com/renatocaliari?tab=repositories&q=skill) | … | … |
+| [and more](https://github.com/renatocaliari/agent-sync-public) | … | … |
 
 **pipeline:** [pi agent](https://github.com/renatocaliari/agent-sync-public) + custom skills → production-ready code
 
