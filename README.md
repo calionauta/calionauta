@@ -1,8 +1,16 @@
 ## 🛸 cali (renato caliari)
 
-> *how can we create lighter, more adaptive systems for work?*
+```
+┌─────────────────────────────────────────────┐
+│  how can we create lighter, more adaptive   │
+│  systems for work — and life?               │
+│                                             │
+│  74 public repos · 0 stars (give or take)   │
+│  digital gardening, not a storefront        │
+└─────────────────────────────────────────────┘
+```
 
-—
+---
 
 ### what i do
 
@@ -27,7 +35,7 @@ developed **contornos** — a social technology for decentralized decisions. des
 ```
 currently pursuing international certification in narrative therapy (Dulwich Centre, Australia). exploring how AI and narrative practices intersect — creating tools like [Biblioteca de Práticas de Terapia Narrativa](https://terapia-narrativa-biblioteca.vercel.app/) and [Bússola de Paisagens](https://bussola-paisagens.vercel.app).
 
-—
+---
 
 ### ⚡ ai agent skills — 54 and counting
 
@@ -64,7 +72,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 **pipeline:** [pi agent](https://github.com/renatocaliari/agent-sync-public) + custom skills → production-ready code
 
-—
+---
 
 ### 🛠️ what i build with lately
 
@@ -74,7 +82,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 ~ no javascript frameworks, no runtime deps, no huge node_modules — just type-safe go, server-side reactivity via SSE, and a single binary you can deploy anywhere.
 
-—
+---
 
 ### 📦 pinned projects
 
@@ -88,7 +96,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | ⚡ [starhtml-skill](https://github.com/renatocaliari/starhtml-skill) | ai agent skill + static analyzer for starhtml |
 | 🌊 [starstream](https://github.com/renatocaliari/starstream) | real-time broadcasting ecosystem for starhtml |
 
-—
+---
 
 ### 🧰 narrative tools (private)
 
@@ -98,7 +106,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | `terapia-narrativa-biblioteca` | searchable library of narrative therapy resources |
 | `bussola-paisagens` | interactive compass for exploring identity landscapes |
 
-—
+---
 
 ### 📖 free e-books (brazilian portuguese)
 
@@ -107,7 +115,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | [📘 guia prático para validar ideias](https://calirenato82.substack.com/p/roteiro-pratico-para-validar-ideias) | 8-step experiment framework — find audiences, define markets, prototype offers, and evolve into viable businesses without building full products first |
 | [📘 estratégia e inovação com jobs to be done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues) | comprehensive jtbd methodology in portuguese — job mapping, market segmentation, outcome-driven innovation adapted for real-world use |
 
-—
+---
 
 ### 📝 writing & thinking
 
@@ -120,7 +128,7 @@ other places:
 - 💼 [linkedin](https://www.linkedin.com/in/calirenato82/)
 - 🐦 [@calirenato82](https://x.com/calirenato82)
 
-—
+---
 
 ### 🔭 current explorations
 
@@ -131,19 +139,13 @@ other places:
 - minimalism, strength training, whole food plant based
 - life without goals — systems and practices instead
 
-—
+---
 
 ### 📊 github activity
 
 ```
-repos: 74 public repositories
-most with exactly 0 stars.
-a monument to my ability to start things.
-digital gardening, not a storefront.
-if you wander in and find something useful — it's yours.
-
-created: 2012
-focus:   product strategy · ai agents · jtbd · organizational design
+repos: 74 public repositories · started: 2012  
+focus: product strategy · ai agents · jtbd · organizational design  
 ```
 
 <picture>
@@ -157,7 +159,5 @@ focus:   product strategy · ai agents · jtbd · organizational design
   />
   <img src="https://github-readme-stats.vercel.app/api?username=renatocaliari&show_icons=true&theme=default&hide_border=true&hide_title=true&hide=issues&count_private=true" />
 </picture>
-
-
 
 > *i prefer questions over answers, observations over evaluations, and confirmation over assumptions.*
