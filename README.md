@@ -10,6 +10,12 @@
 └─────────────────────────────────────────────┘
 ```
 
+**📋 explore this garden**
+
+🧪 what i do · ⚡ ai agent skills · 🛠️ what i build with
+📦 pinned projects · 🧰 narrative tools · 📖 free e-books
+📝 writing & thinking · 🔭 explorations · 📊 github activity
+
 ---
 
 ### what i do
