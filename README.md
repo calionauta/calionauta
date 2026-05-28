@@ -55,7 +55,7 @@ currently pursuing international certification in narrative therapy (Dulwich Cen
 
 i create specialized ai agent skills for product discovery, team facilitation, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
 
-#### featured: `cali-product-workflow`
+#### featured: [`cali-product-workflow`](https://github.com/renatocaliari/cali-product-workflow)
 
 `cali-product-workflow` is the orchestrator. it coordinates **20 sub-skills** organized into 3 supporting layers:
 
@@ -71,19 +71,19 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 | skill | domain | description |
 |-------|--------|-------------|
-| `cali-agents-md-generator` | 📝 workflow | generate / maintain project AGENTS.md |
-| `cali-agents-md-validator` | 📝 workflow | validate AGENTS.md against best practices |
-| `cali-coding-standards` | 💻 coding | universal principles — KISS, DRY, LoB, SoC, Fail Fast + size limits & CI enforcement |
-| `cali-deploy-github-tailscale` | 🚀 ops | deploy to private servers via tailscale |
-| `cali-docker-server-dashboard` | 🚀 ops | server discovery & real-time docker dashboard |
-| `cali-github-releases` | 🚀 ops | github release automation |
-| `cali-go-stack` | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
-| `cali-go-standards` | 💻 coding | go project conventions and best practices |
-| `cali-post-execution-check` | ✅ workflow | post-implementation verification & gap analysis |
-| `cali-questions-quality` | 🎙️ research | evaluate interview scripts & qualitative research |
-| `cali-server-security` | 🔒 ops | server security audit and hardening |
-| `cali-skill-validator` | 📝 workflow | validate agent skills against best practices |
-| `skill-creator` | 📝 workflow | create, modify, and evaluate agent skills |
+| [`cali-agents-md-generator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-agents-md-generator/) | 📝 workflow | generate / maintain project AGENTS.md |
+| [`cali-agents-md-validator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-agents-md-validator/) | 📝 workflow | validate AGENTS.md against best practices |
+| [`cali-coding-standards`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-coding-standards/) | 💻 coding | universal principles — KISS, DRY, LoB, SoC, Fail Fast + size limits & CI enforcement |
+| [`cali-deploy-github-tailscale`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-deploy-github-tailscale/) | 🚀 ops | deploy to private servers via tailscale |
+| [`cali-docker-server-dashboard`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-docker-server-dashboard/) | 🚀 ops | server discovery & real-time docker dashboard |
+| [`cali-github-releases`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-github-releases/) | 🚀 ops | github release automation |
+| [`cali-go-stack`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-go-stack/) | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
+| [`cali-go-standards`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-go-standards/) | 💻 coding | go project conventions and best practices |
+| [`cali-post-execution-check`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-post-execution-check/) | ✅ workflow | post-implementation verification & gap analysis |
+| [`cali-questions-quality`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-questions-quality/) | 🎙️ research | evaluate interview scripts & qualitative research |
+| [`cali-server-security`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-server-security/) | 🔒 ops | server security audit and hardening |
+| [`cali-skill-validator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-skill-validator/) | 📝 workflow | validate agent skills against best practices |
+| [`skill-creator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/skill-creator/) | 📝 workflow | create, modify, and evaluate agent skills |
 | [and more](https://github.com/renatocaliari/agent-sync-public) | … | … |
 
 ### ⚙️ the pipeline
