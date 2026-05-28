@@ -12,9 +12,13 @@
 
 **📋 explore this garden**
 
-🧪 [what i do](#what-i-do) · ⚡ [ai agent skills](#-ai-agent-skills--54-and-counting) · 🛠️ [what i build with](#️-what-i-build-with-lately)
-📦 [pinned projects](#-pinned-projects) · 🧰 [narrative tools](#-narrative-tools-private) · 📖 [free e-books](#-free-e-books-brazilian-portuguese)
-📝 [writing & thinking](#-writing--thinking) · 🔭 [explorations](#-current-explorations) · 📊 [github activity](#-github-activity)
+| | |
+|---|---|
+| 🧪 [what i do](#what-i-do) | ⚡ [ai agent skills](#-ai-agent-skills--54-and-counting) |
+| 🛠️ [what i build with](#️-what-i-build-with-lately) | 📦 [pinned projects](#-pinned-projects) |
+| 🧰 [narrative tools](#-narrative-tools-private) | 📖 [free e-books](#-free-e-books-brazilian-portuguese) |
+| 📝 [writing & thinking](#-writing--thinking) | 🔭 [explorations](#-current-explorations) |
+| 📊 [github activity](#-github-activity) | |
 
 ---
 
@@ -76,7 +80,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | `skill-creator` | 📝 workflow | create, modify, and evaluate agent skills |
 | [and more](https://github.com/renatocaliari/agent-sync-public) | … | … |
 
-**pipeline:** [pi agent](https://github.com/renatocaliari/agent-sync-public) + custom skills → production-ready code
+> **pipeline:** [pi.dev](https://pi.dev/) + [custom skills](https://github.com/renatocaliari#featured-cali-product-workflow) → code that's been debated, critiqued, and stress-tested by ai — with a human still signing the checks
 
 ---
 
