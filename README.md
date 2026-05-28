@@ -6,12 +6,16 @@
 
 ### what i do
 
-i explore how product teams and organizations can replace rigid frameworks with lighter, more adaptive ways of working. my work moves across three fronts:
+i explore how product teams and organizations can replace rigid frameworks with lighter, more adaptive ways of working. my path — software development, product management, hr leadership, self-management consulting, and education — gave me a front-row seat to the frictions that keep teams from doing their best work. today i support people at every level, from c-level to product and people teams, helping them design their own ways of working rather than selling ready-made models.
+
+my work moves across three fronts:
 
 ```
 🧪 product discovery & jtbd
 ```
-created the **triple track agile** approach (opportunity mapping + product cycles). wrote *a guide to building products with short learning cycles* and *strategy and innovation with jobs to be done*. built [JTBD-Mapper-AI-Agent](https://github.com/renatocaliari/JTBD-Mapper-AI-Agent) — an AI-powered open-source tool for jobs-to-be-done analysis.
+created the **triple track agile** approach. wrote *a guide to building products with short learning cycles* and *strategy and innovation with jobs to be done*. built [JTBD-Mapper-AI-Agent](https://github.com/renatocaliari/JTBD-Mapper-AI-Agent). at **[timeproduto.com.br](https://www.timeproduto.com.br/)** i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
+
+the `cali-product-workflow` skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
 
 ```
 🔄 team dynamics & culture
@@ -48,6 +52,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | `cali-agents-md-generator` | 📝 workflow | generate / maintain project AGENTS.md |
 | `cali-agents-md-validator` | 📝 workflow | validate AGENTS.md against best practices |
 | `cali-deploy-github-tailscale` | 🚀 ops | deploy to private servers via tailscale |
+| `cali-docker-server-dashboard` | 🚀 ops | server discovery & real-time docker dashboard |
 | `cali-github-releases` | 🚀 ops | github release automation |
 | `cali-go-standards` | 💻 coding | go project conventions and best practices |
 | `cali-post-execution-check` | ✅ workflow | post-implementation verification & gap analysis |
@@ -89,7 +94,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 | project | description |
 |---------|-------------|
-| `treinamento-praticas-narrativas` | training materials for narrative therapy practice |
+| `treinamento-praticas-narrativas` | simulated conversation system with ai supervision for therapist training |
 | `terapia-narrativa-biblioteca` | searchable library of narrative therapy resources |
 | `bussola-paisagens` | interactive compass for exploring identity landscapes |
 
@@ -121,6 +126,7 @@ other places:
 
 - narrative therapy & participatory narrative inquiry
 - ai agents for therapeutic and facilitative contexts
+- ai-human collaborative product workflows — designing systems where ai assists each stage while keeping human judgment at the center
 - lighter organizational rituals and structures
 - minimalism, strength training, whole food plant based
 - life without goals — systems and practices instead
