@@ -56,7 +56,7 @@ currently building tool for simulated conversation system with ai supervision fo
 
 ### ⚡ ai agent skills — 54 and counting
 
-i create specialized ai agent skills for product discovery, team facilitation, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
+i create specialized ai agent skills for product discovery, qualitative research, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
 
 #### featured: [`cali-product-workflow`](https://github.com/renatocaliari/cali-product-workflow)
 
@@ -86,7 +86,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | [`cali-questions-quality`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-questions-quality/) | 🎙️ research | evaluate interview scripts & qualitative research |
 | [`cali-server-security`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-server-security/) | 🔒 ops | server security audit and hardening |
 | [`cali-skill-validator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-skill-validator/) | 📝 workflow | validate agent skills against best practices |
-| [`skill-creator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/skill-creator/) | 📝 workflow | create, modify, and evaluate agent skills |
+| [`cali-package-audit`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-package-audit/) | 🔒 ops | supply chain security audit — socket.dev, trivy, osv-scanner, dotenvx |
 | [and more](https://github.com/renatocaliari/agent-sync-public) | … | … |
 
 ### ⚙️ the pipeline
