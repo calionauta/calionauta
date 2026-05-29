@@ -31,33 +31,26 @@ my work moves across four fronts:
 
 #### product discovery, job to be done & innovation
 
- ```
 created the **[triple track agile](https://calirenato82.medium.com/triple-track-agile-problem-space-solution-space-81c2c6b7bf24)** approach. wrote *a e-book to building products with short learning cycles* and *strategy and innovation with jobs to be done*, in portuguese.
 at **[timeproduto.com.br](https://www.timeproduto.com.br/)** i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
 the `cali-product-workflow` skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
 → [github.com/renatocaliari](https://github.com/renatocaliari) · [linkedin](https://www.linkedin.com/in/calirenato82/)
- ```
 
  #### ai agents & skills
- ```
+ 
  🤖 50+ open skills for product discovery, coding, qualitative research, and workflow automation. an agent ecosystem.
  → [github.com/renatocaliari/agent-sync-public](https://github.com/renatocaliari/agent-sync-public)
- ```
-
+ 
  #### culture & organizational design
 
- ```
- 🔄 culture & organizational design — structural experiments, alternatives to traditional corporate rituals (performance reviews, 1:1s, 360s), decentralized decision-making through a complex systems lens. supporting c-level to team leads, teams, and individuals.
+🔄 culture & organizational design — structural experiments, alternatives to traditional corporate rituals (performance reviews, 1:1s, 360s), decentralized decision-making through a complex systems lens. supporting c-level to team leads, teams, and individuals.
  → [linkedin](https://www.linkedin.com/in/calirenato82/)
- ```
 
  #### participatory facilitation & narrative therapy
 
- ```
- 🌀 liberating structures, group dynamics, and original facilitation processes. training and certification in narrative therapy (in progress). i also build ai tools that support narrative practices (practice library, landscape compass, therapist training simulator
+🌀 liberating structures, group dynamics, and original facilitation processes. training and certification in narrative therapy (in progress). i also build ai tools that support narrative practices (practice library, landscape compass, therapist training simulator
 currently building tool for simulated conversation system with ai supervision for therapist training.
 → [renatocaliari.com](https://renatocaliari.com/) · [linkedin](https://www.linkedin.com/in/calirenato82/)
-```
 
 ---
 
