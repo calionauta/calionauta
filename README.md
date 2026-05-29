@@ -13,7 +13,7 @@
 
 | | |
 |---|---|
-| 🧪 [what i do](#what-i-do) | ⚡ [ai agent skills](#-ai-agent-skills--30-and-counting) |
+| 🧪 [what i do](#what-i-do) | ⚡ [ai agent skills](#-ai-agent-skills) |
 | 🛠️ [what i build with](#️-what-i-build-with-lately) | 📦 [pinned projects](#-pinned-projects) |
 | 📖 [free e-books](#-free-e-books-brazilian-portuguese) | 📝 [writing & thinking](#-writing--thinking) |
 | 🔭 [explorations](#-current-explorations) | |
@@ -54,7 +54,7 @@ currently building tool for simulated conversation system with ai supervision fo
 
 ---
 
-### ⚡ ai agent skills — 30+ and counting
+### ⚡ ai agent skills
 
 i create specialized ai agent skills for product discovery, qualitative research, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
 
