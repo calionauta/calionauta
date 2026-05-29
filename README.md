@@ -19,35 +19,44 @@
 | 🔭 [explorations](#-current-explorations) | |
 
 ---
-
+   
 ### what i do
 
 i explore how product teams and organizations can replace rigid frameworks with lighter, more adaptive ways of working. my path — software development, product management, hr leadership, self-management consulting, and education — gave me a front-row seat to the frictions that drain energy and multiply unnecessary complexity. today i support people at every level, from c-level to product and people teams, helping them design their own ways of working rather than selling ready-made models.
 
-my work moves across three fronts:
+i help people and groups navigate complex contexts — in their relationship with themselves, in organizational settings, and in digital product creation. 
 
-```
-🧪 product discovery & jtbd
-```
-created the **triple track agile** approach. wrote *a guide to building products with short learning cycles* and *strategy and innovation with jobs to be done*. built [JTBD-Mapper-AI-Agent](https://github.com/renatocaliari/JTBD-Mapper-AI-Agent). at **[timeproduto.com.br](https://www.timeproduto.com.br/)** i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
+my work moves across four fronts:
 
+
+#### product discovery, job to be done & innovation
+
+ ```
+created the **[triple track agile](https://calirenato82.medium.com/triple-track-agile-problem-space-solution-space-81c2c6b7bf24)** approach. wrote *a e-book to building products with short learning cycles* and *strategy and innovation with jobs to be done*, in portuguese.
+at **[timeproduto.com.br](https://www.timeproduto.com.br/)** i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
 the `cali-product-workflow` skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
+→ [github.com/renatocaliari](https://github.com/renatocaliari) · [linkedin](https://www.linkedin.com/in/calirenato82/)
+ ```
 
-```
-🔄 team dynamics & culture
-```
-developed **contornos** — a social technology for decentralized decisions. designed practical alternatives to traditional corporate rituals (performance reviews, 360s, 1:1s) aiming for lighter, continuous interactions focused on learning.
+ ### ai agents & skills
+ ```
+ 🤖 50+ open skills for product discovery, coding, qualitative research, and workflow automation. an agent ecosystem.
+ → [github.com/renatocaliari/agent-sync-public](https://github.com/renatocaliari/agent-sync-public)
+ ```
 
-```
-🌀 narrative therapy & AI
-```
-currently pursuing international certification in narrative therapy (Dulwich Centre, Australia). exploring how AI and narrative practices intersect:
+ ### culture & organizational design
 
-| tool | description |
-|------|-------------|
-| 🔍 [Biblioteca de Práticas de Terapia Narrativa](https://terapia-narrativa-biblioteca.vercel.app/) | searchable library of narrative therapy resources |
-| 🧭 [Bússola de Paisagens](https://bussola-paisagens.vercel.app/) | interactive compass for exploring identity landscapes |
-| 🗣️ `treinamento-praticas-narrativas` | simulated conversation system with ai supervision for therapist training |
+ ```
+ 🔄 culture & organizational design — structural experiments, alternatives to traditional corporate rituals (performance reviews, 1:1s, 360s), decentralized decision-making through a complex systems lens. supporting c-level to team leads, teams, and individuals.
+ → [linkedin](https://www.linkedin.com/in/calirenato82/)
+ ```
+
+ ### participatory facilitation & narrative therapy
+
+ ```
+ 🌀 liberating structures, group dynamics, and original facilitation processes. training and certification in narrative therapy (in progress). i also build ai tools that support narrative practices (practice library, landscape compass, therapist training simulator
+currently building tool for simulated conversation system with ai supervision for therapist training.
+→ [renatocaliari.com](https://renatocaliari.com/) · [linkedin](https://www.linkedin.com/in/calirenato82/)
 
 ---
 
