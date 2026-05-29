@@ -77,15 +77,15 @@ i create specialized ai agent skills for product discovery, qualitative research
 | [`cali-agents-md-generator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-agents-md-generator/) | 📝 workflow | generate / maintain project AGENTS.md |
 | [`cali-agents-md-validator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-agents-md-validator/) | 📝 workflow | validate AGENTS.md against best practices |
 | [`cali-coding-standards`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-coding-standards/) | 💻 coding | universal principles — KISS, DRY, LoB, SoC, Fail Fast + size limits & CI enforcement |
-| [`cali-deploy-github-tailscale`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-deploy-github-tailscale/) | 🚀 ops | deploy to private servers via tailscale |
-| [`cali-docker-server-dashboard`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-docker-server-dashboard/) | 🚀 ops | server discovery & real-time docker dashboard |
-| [`cali-github-releases`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-github-releases/) | 🚀 ops | github release automation |
-| [`cali-go-stack`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-go-stack/) | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
-| [`cali-go-standards`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-go-standards/) | 💻 coding | go project conventions and best practices |
-| [`cali-package-audit`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-package-audit/) | 🚀 ops | supply chain security audit — socket.dev, trivy, osv-scanner, dotenvx |
+| [`cali-ops-deploy-github-tailscale`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-deploy-github-tailscale/) | 🚀 ops | deploy to private servers via tailscale |
+| [`cali-ops-docker-server-dashboard`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-docker-server-dashboard/) | 🚀 ops | server discovery & real-time docker dashboard |
+| [`cali-ops-github-releases`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-github-releases/) | 🚀 ops | github release automation |
+| [`cali-coding-go-stack`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-coding-go-stack/) | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
+| [`cali-coding-go-standards`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-coding-go-standards/) | 💻 coding | go project conventions and best practices |
+| [`cali-ops-package-audit`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-package-audit/) | 🚀 ops | supply chain security audit — socket.dev, trivy, osv-scanner, dotenvx |
 | [`cali-post-execution-check`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-post-execution-check/) | 📝 workflow | post-implementation verification & gap analysis |
 | [`cali-questions-quality`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-questions-quality/) | 🎙️ research | evaluate interview scripts & qualitative research |
-| [`cali-server-security`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-server-security/) | 🚀 ops | server security audit and hardening |
+| [`cali-ops-server-security`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-server-security/) | 🚀 ops | server security audit and hardening |
 | [`cali-skill-validator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-skill-validator/) | 📝 workflow | validate agent skills against best practices |
 | [and more](https://github.com/renatocaliari/agent-sync-public) | … | … |
 
