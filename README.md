@@ -60,7 +60,7 @@ i create specialized ai agent skills for product discovery, qualitative research
 
 #### featured: [`cali-product-workflow`](https://github.com/renatocaliari/cali-product-workflow)
 
-`cali-product-workflow` is the orchestrator. it coordinates **24 sub-skills** organized into 5 supporting layers:
+`cali-product-workflow` coordinates **25 sub-skills** (listed below). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 11 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
 
 | layer | role | skills | count |
 |-------|------|--------|:-----:|
@@ -84,7 +84,6 @@ i create specialized ai agent skills for product discovery, qualitative research
 | [`cali-coding-go-stack`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-coding-go-stack/) | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
 | [`cali-coding-go-standards`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-coding-go-standards/) | 💻 coding | go project conventions and best practices |
 | [`cali-ops-package-audit`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-package-audit/) | 🚀 ops | supply chain security audit — socket.dev, trivy, osv-scanner, dotenvx |
-| [`cali-post-execution-check`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-post-execution-check/) | 📝 workflow | post-implementation verification & gap analysis |
 | [`cali-questions-quality`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-questions-quality/) | 🎙️ research | evaluate interview scripts & qualitative research |
 | [`cali-ops-server-security`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-server-security/) | 🚀 ops | server security audit and hardening |
 | [`cali-skill-validator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-skill-validator/) | 📝 workflow | validate agent skills against best practices |
