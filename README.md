@@ -1,14 +1,4 @@
 ## 🛸 cali (renato caliari)
-
-```
-┌─────────────────────────────────────────────┐
-│  how can we create lighter, more adaptive   │
-│  systems for work — and life?               │
-│                                             │
-│  digital gardening, not a storefront        │
-└─────────────────────────────────────────────┘
-```
-
 > 🇧🇷 **more about, in brazilian portuguese**:
 > • 💼 [linkedin](https://www.linkedin.com/in/calirenato82/)
 > • 📝 [substack — texts, e-books, prompts](https://calirenato82.substack.com/)
