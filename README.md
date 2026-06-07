@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/renatocaliari.png" width="100" height="100" style="border-radius:50%" alt="cali avatar">
-</p>
-
 ## 🛸 cali (renato caliari)
 
 ```
@@ -13,9 +9,9 @@
 └─────────────────────────────────────────────┘
 ```
 
-> 🇧🇷 **Saiba mais em português brasileiro** — meu perfil é em inglês pra mostrar que leio e escrevo em inglês, mas os links abaixo são em pt-br:
-> • 💼 [LinkedIn](https://www.linkedin.com/in/calirenato82/)
-> • 📝 [Substack — textos, e-books, prompts](https://calirenato82.substack.com/)
+> 🇧🇷 **more about, in brazilian portuguese**:
+> • 💼 [linkedin](https://www.linkedin.com/in/calirenato82/)
+> • 📝 [substack — texts, e-books, prompts](https://calirenato82.substack.com/)
 
 **📋 sections**
 
