@@ -27,7 +27,7 @@ my work moves across four fronts:
 
 created the **[triple track agile](https://calirenato82.medium.com/triple-track-agile-problem-space-solution-space-81c2c6b7bf24)** approach. wrote *a e-book to building products with short learning cycles* and *strategy and innovation with jobs to be done*, in portuguese.
 at **[timeproduto.com.br](https://www.timeproduto.com.br/)** i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
-the `cali-product-workflow` skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
+the `stelow` skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
 → [github.com/renatocaliari](https://github.com/renatocaliari) · [linkedin](https://www.linkedin.com/in/calirenato82/)
 
  #### ai agents & skills
@@ -52,13 +52,13 @@ currently building tool for simulated conversation system with ai supervision fo
 
 i create specialized ai agent skills for product discovery, qualitative research, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
 
-#### featured: [`cali-product-workflow`](https://github.com/renatocaliari/cali-product-workflow)
+#### featured: [`stelow`](https://github.com/renatocaliari/stelow)
 
-`cali-product-workflow` coordinates **25 sub-skills** (listed below). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 11 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
+`stelow` coordinates **24 sub-skills** (listed below). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 11 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
 
 | layer | role | skills | count |
 |-------|------|--------|:-----:|
-| 🎛️ **orchestrator** | pipeline coordinator | `cali-product-workflow` | 1 |
+| 🎛️ **orchestrator** | pipeline coordinator | `stelow` | 1 |
 | 🧠 **product strategies** | upfront exploration | `product-discovery` · `job-to-be-done` · `evolutionary-principles` · `opportunity-mapping` · `multi-method-market-analysis` | 5 |
 | ⚙️ **workflow stages** | pipeline steps | `shape-up` · `plan-critique` · `codebase-critique` · `ux-critique` · `interface-alternatives` · `tech-planning` · `testing-ai-code` · `testing-execution` · `scope-executor` · `execution-critique` | 10 |
 | 📘 **product tactics** | on-demand reference | `ads` · `pricing` · `promotions` · `trust-building` · `health` · `marketplace-playbook` · `business-models` · `open-source` | 8 |
@@ -85,7 +85,7 @@ i create specialized ai agent skills for product discovery, qualitative research
 
 ### ⚙️ the pipeline
 
-> **[pi.dev](https://pi.dev/)** + **[custom skills](https://github.com/renatocaliari#featured-cali-product-workflow)**
+> **[pi.dev](https://pi.dev/)** + **[custom skills](https://github.com/renatocaliari/stelow)**
 >
 > I set the stage upstream — questions, critiques, planning convos, detailed scopes. Then the AI runs inside the fences. I still sneak in when something feels off. The results surprise me more often than not.
 
@@ -107,7 +107,7 @@ i create specialized ai agent skills for product discovery, qualitative research
 |---------|-------------|
 | 🔄 [agent-sync](https://github.com/renatocaliari/agent-sync) | agent configuration sync ecosystem |
 | 🌐 [agent-sync-public](https://github.com/renatocaliari/agent-sync-public) | public-facing agent sync & skill distribution |
-| 🤖 [cali-product-workflow](https://github.com/renatocaliari/cali-product-workflow) | structured product planning workflow for ai agents |
+| 🤖 [stelow](https://github.com/renatocaliari/stelow) | structured product planning workflow for ai agents |
 | 🐍 [htpy-lsp](https://github.com/renatocaliari/htpy-lsp) | lsp server for validating htpy coding |
 | 🔧 [pi-tool-repair-layer](https://github.com/renatocaliari/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
 | ⚡ [starhtml-skill](https://github.com/renatocaliari/starhtml-skill) | ai agent skill + static analyzer for starhtml |
