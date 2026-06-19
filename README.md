@@ -54,7 +54,7 @@ i create specialized ai agent skills for product discovery, qualitative research
 
 #### featured: [`stelow`](https://github.com/renatocaliari/stelow) — opinionated product workflow. stellar clarity. low friction.
 
-`stelow` coordinates **24 sub-skills** (listed below). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 11 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
+`stelow` coordinates **+20 skills** (listed below). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 11 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
 
 | layer | role | skills | count |
 |-------|------|--------|:-----:|
