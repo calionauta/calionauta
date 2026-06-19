@@ -52,7 +52,7 @@ currently building tool for simulated conversation system with ai supervision fo
 
 i create specialized ai agent skills for product discovery, qualitative research, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
 
-#### featured: [`stelow`](https://github.com/renatocaliari/stelow)
+#### featured: [`stelow`](https://github.com/renatocaliari/stelow) — opinionated product workflow. stellar clarity. low friction.
 
 `stelow` coordinates **24 sub-skills** (listed below). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 11 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
 
@@ -107,7 +107,7 @@ i create specialized ai agent skills for product discovery, qualitative research
 |---------|-------------|
 | 🔄 [agent-sync](https://github.com/renatocaliari/agent-sync) | agent configuration sync ecosystem |
 | 🌐 [agent-sync-public](https://github.com/renatocaliari/agent-sync-public) | public-facing agent sync & skill distribution |
-| 🤖 [stelow](https://github.com/renatocaliari/stelow) | structured product planning workflow for ai agents |
+| 🤖 [stelow](https://github.com/renatocaliari/stelow) | opinionated product workflow. stellar clarity. low friction. |
 | 🐍 [htpy-lsp](https://github.com/renatocaliari/htpy-lsp) | lsp server for validating htpy coding |
 | 🔧 [pi-tool-repair-layer](https://github.com/renatocaliari/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
 | ⚡ [starhtml-skill](https://github.com/renatocaliari/starhtml-skill) | ai agent skill + static analyzer for starhtml |
