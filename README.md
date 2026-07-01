@@ -27,13 +27,13 @@ my work moves across four fronts:
 
 created the **[triple track agile](https://calionauta.medium.com/triple-track-agile-problem-space-solution-space-81c2c6b7bf24)** approach. wrote *a e-book to building products with short learning cycles* and *strategy and innovation with jobs to be done*, in portuguese.
 at **[timeproduto.](https://timeproduto.vercel.app/)** i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
-the **[`stelow`](https://github.com/renatocaliari/stelow)** workflow and skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
+the **[`stelow`](https://github.com/calionauta/stelow)** workflow and skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
 → [github.com/renatocaliari](https://github.com/renatocaliari) · [linkedin](https://www.linkedin.com/in/calionauta/)
 
  #### ai agents & skills
  
  🤖 30+ open skills for product discovery, coding, qualitative research, and workflow automation. an agent ecosystem.
- → [github.com/renatocaliari/agent-sync-public](https://github.com/renatocaliari/agent-sync-public)
+ → [github.com/calionauta/agent-sync-public](https://github.com/calionauta/agent-sync-public)
  
  #### culture & organizational design
 
@@ -44,7 +44,7 @@ the **[`stelow`](https://github.com/renatocaliari/stelow)** workflow and skills 
 
 🌀 liberating structures, group dynamics, and original facilitation processes. training and certification in narrative therapy (in progress). i also build ai tools that support narrative practices (practice library, landscape compass, therapist training simulator
 currently building tool for simulated conversation system with ai supervision for therapist training.
-→ [renatocaliari.com](https://renatocaliari.com/) · [linkedin](https://www.linkedin.com/in/calionauta/)
+→ [calionauta.com](https://calionauta.com/) · [linkedin](https://www.linkedin.com/in/calionauta/)
 
 ---
 
@@ -52,7 +52,7 @@ currently building tool for simulated conversation system with ai supervision fo
 
 i create specialized ai agent skills for product discovery, qualitative research, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
 
-#### featured: [`stelow`](https://github.com/renatocaliari/stelow) — opinionated product workflow. stellar clarity. low friction.
+#### featured: [`stelow`](https://github.com/calionauta/stelow) — opinionated product workflow. stellar clarity. low friction.
 
 `stelow` coordinates **+20 skills** (listed below). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 11 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
 
@@ -69,23 +69,23 @@ i create specialized ai agent skills for product discovery, qualitative research
 
 | skill | domain | description |
 |-------|--------|-------------|
-| [`cali-agents-md-generator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-agents-md-generator/) | 📝 workflow | generate / maintain project AGENTS.md |
-| [`cali-agents-md-validator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-agents-md-validator/) | 📝 workflow | validate AGENTS.md against best practices |
-| [`cali-coding-standards`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-coding-standards/) | 💻 coding | universal principles — KISS, DRY, LoB, SoC, Fail Fast + size limits & CI enforcement |
-| [`cali-ops-deploy-github-tailscale`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-deploy-github-tailscale/) | 🚀 ops | deploy to private servers via tailscale |
-| [`cali-ops-docker-server-dashboard`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-docker-server-dashboard/) | 🚀 ops | server discovery & real-time docker dashboard |
-| [`cali-ops-github-releases`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-github-releases/) | 🚀 ops | github release automation |
-| [`cali-coding-go-stack`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-coding-go-stack/) | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
-| [`cali-coding-go-standards`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-coding-go-standards/) | 💻 coding | go project conventions and best practices |
-| [`cali-ops-package-audit`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-package-audit/) | 🚀 ops | supply chain security audit — socket.dev, trivy, osv-scanner, dotenvx |
-| [`cali-questions-quality`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-questions-quality/) | 🎙️ research | evaluate interview scripts & qualitative research |
-| [`cali-ops-server-security`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-ops-server-security/) | 🚀 ops | server security audit and hardening |
-| [`cali-skill-validator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-skill-validator/) | 📝 workflow | validate agent skills against best practices |
-| [and more](https://github.com/renatocaliari/agent-sync-public) | … | … |
+| [`cali-agents-md-generator`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-agents-md-generator/) | 📝 workflow | generate / maintain project AGENTS.md |
+| [`cali-agents-md-validator`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-agents-md-validator/) | 📝 workflow | validate AGENTS.md against best practices |
+| [`cali-coding-standards`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-coding-standards/) | 💻 coding | universal principles — KISS, DRY, LoB, SoC, Fail Fast + size limits & CI enforcement |
+| [`cali-ops-deploy-github-tailscale`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-deploy-github-tailscale/) | 🚀 ops | deploy to private servers via tailscale |
+| [`cali-ops-docker-server-dashboard`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-docker-server-dashboard/) | 🚀 ops | server discovery & real-time docker dashboard |
+| [`cali-ops-github-releases`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-github-releases/) | 🚀 ops | github release automation |
+| [`cali-coding-go-stack`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-coding-go-stack/) | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
+| [`cali-coding-go-standards`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-coding-go-standards/) | 💻 coding | go project conventions and best practices |
+| [`cali-ops-package-audit`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-package-audit/) | 🚀 ops | supply chain security audit — socket.dev, trivy, osv-scanner, dotenvx |
+| [`cali-questions-quality`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-questions-quality/) | 🎙️ research | evaluate interview scripts & qualitative research |
+| [`cali-ops-server-security`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-server-security/) | 🚀 ops | server security audit and hardening |
+| [`cali-skill-validator`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-skill-validator/) | 📝 workflow | validate agent skills against best practices |
+| [and more](https://github.com/calionauta/agent-sync-public) | … | … |
 
 ### ⚙️ the pipeline
 
-> **[pi.dev](https://pi.dev/)** + **[custom skills](https://github.com/renatocaliari/stelow)**
+> **[pi.dev](https://pi.dev/)** + **[custom skills](https://github.com/calionauta/stelow)**
 >
 > I set the stage upstream — questions, critiques, planning convos, detailed scopes. Then the AI runs inside the fences. I still sneak in when something feels off. The results surprise me more often than not.
 
@@ -105,13 +105,13 @@ i create specialized ai agent skills for product discovery, qualitative research
 
 | project | description |
 |---------|-------------|
-| 🔄 [agent-sync](https://github.com/renatocaliari/agent-sync) | agent configuration sync ecosystem |
-| 🌐 [agent-sync-public](https://github.com/renatocaliari/agent-sync-public) | public-facing agent sync & skill distribution |
-| 🤖 [stelow](https://github.com/renatocaliari/stelow) | opinionated product workflow. stellar clarity. low friction. |
-| 🐍 [htpy-lsp](https://github.com/renatocaliari/htpy-lsp) | lsp server for validating htpy coding |
-| 🔧 [pi-tool-repair-layer](https://github.com/renatocaliari/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
-| ⚡ [starhtml-skill](https://github.com/renatocaliari/starhtml-skill) | ai agent skill + static analyzer for starhtml |
-| 🌊 [starstream](https://github.com/renatocaliari/starstream) | real-time broadcasting ecosystem for starhtml |
+| 🔄 [agent-sync](https://github.com/calionauta/agent-sync) | agent configuration sync ecosystem |
+| 🌐 [agent-sync-public](https://github.com/calionauta/agent-sync-public) | public-facing agent sync & skill distribution |
+| 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated product workflow. stellar clarity. low friction. |
+| 🐍 [htpy-lsp](https://github.com/calionauta/htpy-lsp) | lsp server for validating htpy coding |
+| 🔧 [pi-tool-repair-layer](https://github.com/calionauta/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
+| ⚡ [starhtml-skill](https://github.com/calionauta/starhtml-skill) | ai agent skill + static analyzer for starhtml |
+| 🌊 [starstream](https://github.com/calionauta/starstream) | real-time broadcasting ecosystem for starhtml |
 
 ---
 
@@ -131,7 +131,7 @@ i write at **[🛸 espaço calionauta](https://calionauta.substack.com/)** — r
 sections: `🧪 life lab` · `🐙 tentaculus` (culture, product, jtbd) · `🤖 ai prompts` · `📜 quote collection`
 
 other places:
-- 🌐 [renatocaliari.com](https://www.renatocaliari.com/) — narrative therapy & facilitation
+- 🌐 [calionauta.com](https://www.calionauta.com/) — narrative therapy & facilitation
 - 💼 [linkedin](https://www.linkedin.com/in/calionauta/)
 - 🐦 [@calionauta](https://x.com/calionauta)
 
