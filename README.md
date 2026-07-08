@@ -108,7 +108,7 @@ i create specialized ai agent skills for product discovery, qualitative research
 | 🔄 [agent-sync](https://github.com/calionauta/agent-sync) | agent configuration sync ecosystem |
 | 🌐 [agent-sync-public](https://github.com/calionauta/agent-sync-public) | public-facing agent sync & skill distribution |
 | 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated agentic product workflow orchestrator for ai agents and humans. ai agents less like coding assistants, more like cross-functional product team |
-| 🛡️ [pi-leakguard](https://github.com/calionauta/pi-leakguard) | prompt-injection detection |
+| 🛡️ [pi-leakguard](https://github.com/calionauta/pi-leakguard) | leak guard for pi.dev - blocks llm access to sensitive paths, egress dlp, taint tracking, and secret redaction. |
 | 🔧 [pi-tool-repair-layer](https://github.com/calionauta/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
 | 🐹 [gogogo-fullstack-template](https://github.com/calionauta/gogogo-fullstack-template) | go web app template, batteries included. single binary, zero external services, llm-friendly |
 
