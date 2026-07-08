@@ -105,13 +105,9 @@ i create specialized ai agent skills for product discovery, qualitative research
 
 | project | description |
 |---------|-------------|
-| 🔄 [agent-sync](https://github.com/calionauta/agent-sync) | agent configuration sync ecosystem |
-| 🌐 [agent-sync-public](https://github.com/calionauta/agent-sync-public) | public-facing agent sync & skill distribution |
-| 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated product workflow. stellar clarity. low friction. |
-| 🐍 [htpy-lsp](https://github.com/calionauta/htpy-lsp) | lsp server for validating htpy coding |
-| 🔧 [pi-tool-repair-layer](https://github.com/calionauta/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
-| ⚡ [starhtml-skill](https://github.com/calionauta/starhtml-skill) | ai agent skill + static analyzer for starhtml |
-| 🌊 [starstream](https://github.com/calionauta/starstream) | real-time broadcasting ecosystem for starhtml |
+| 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated agentic product workflow orchestrator for ai agents and humans. ai agents less like coding assistants, more like cross-functional product team |
+| 🛡️ [pi-leakguard](https://github.com/calionauta/pi-leakguard) | prompt-injection detection |
+| 🐹 [gogogo-fullstack-template](https://github.com/calionauta/gogogo-fullstack-template) | go web app template, batteries included. single binary, zero external services, llm-friendly |
 
 ---
 
