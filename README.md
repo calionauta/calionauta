@@ -54,16 +54,17 @@ i create specialized ai agent skills for product discovery, qualitative research
 
 #### featured: [`stelow`](https://github.com/calionauta/stelow) — opinionated product workflow. stellar clarity. low friction.
 
-`stelow` coordinates **+20 skills** (listed below). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 11 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
+`stelow` coordinates **28 skills** — **14 workflow** (the delivery machinery: entry, router, orchestrator + stage/execution skills) and **14 product** (strategy playbooks + domain tactics, reference-only). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 16 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
+
+state mechanics run through stelow's own CLI (`scripts/stelow`: `status`/`advance`/`doctor`/`seed`/`schema`/`ask`) — no host-specific code. the 14 workflow skills ship inside [bb-plugin-stelow](https://github.com/calionauta/bb-plugin-stelow) (kanban board + inbox + `bb stelow` worker CLI, auto-synced from the stelow repo); the 14 product skills install standalone via `npx skills add calionauta/stelow`.
 
 | layer | role | skills | count |
 |-------|------|--------|:-----:|
-| 🎛️ **orchestrator** | pipeline coordinator | `stelow` | 1 |
+| 🎛️ **workflow control-plane** | bootstrap + navigation | `entry` · `router` · `orchestrator` | 3 |
+| ⚙️ **workflow stages** | pipeline steps | `shape-up` · `plan-critique` · `codebase-critique` · `ux-critique` · `interface-alternatives` · `tech-planning` · `testing-ai-code` · `testing-execution` · `scope-executor` · `execution-critique` · `coding-standards` | 11 |
 | 🧠 **product strategies** | upfront exploration | `product-discovery` · `job-to-be-done` · `evolutionary-principles` · `opportunity-mapping` · `multi-method-market-analysis` | 5 |
-| ⚙️ **workflow stages** | pipeline steps | `shape-up` · `plan-critique` · `codebase-critique` · `ux-critique` · `interface-alternatives` · `tech-planning` · `testing-ai-code` · `testing-execution` · `scope-executor` · `execution-critique` | 10 |
-| 📘 **product tactics** | on-demand reference | `ads` · `pricing` · `promotions` · `trust-building` · `health` · `marketplace-playbook` · `business-models` · `open-source` | 8 |
-| 🔧 **cross-cutting** | shared conventions | `code-standards` | 1 |
-| | | **total** | **25** |
+| 📘 **product tactics** | on-demand reference | `ads` · `pricing` · `promotions` · `paywall` · `trust-building` · `health` · `marketplace-playbook` · `business-models` · `open-source` | 9 |
+| | | **total** | **28** |
 
 #### other key skills
 
@@ -112,7 +113,8 @@ i create specialized ai agent skills for product discovery, qualitative research
 | 🧠 [knowledge-vault](https://github.com/calionauta/ai-knowledge-vault) | ai-augmented vault. kiwiFS stores. mercury connects. project management adapters. |
 | 🛡️ [pi-leakguard](https://github.com/calionauta/pi-leakguard) | leak guard for pi.dev - blocks llm access to sensitive paths, egress dlp, taint tracking, and secret redaction. |
 | 🔧 [pi-tool-repair-layer](https://github.com/calionauta/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
-| 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated agentic product workflow orchestrator for ai agents and humans. ai agents less like coding assistants, more like cross-functional product team |
+| 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated agentic product workflow orchestrator for ai agents and humans. ai agents less like coding assistants, more like cross-functional product team. visual host: [bb-plugin-stelow](https://github.com/calionauta/bb-plugin-stelow) |
+| ⭐ [bb-plugin-stelow](https://github.com/calionauta/bb-plugin-stelow) | Turn humans and AI agents into a cross-functional product team: research opportunity spaces with 14 strategy playbooks, then deliver through an orchestrated workflow. One board, one quiet inbox |
 
 ---
 
