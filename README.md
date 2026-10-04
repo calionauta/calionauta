@@ -7,7 +7,7 @@
 
 | | |
 |---|---|
-| 🧪 [what i do](#what-i-do) | 📦 [pinned projects](#-pinned-projects) |
+| 🧪 [what i do](#what-i-do) | 📌 [pinned projects](#-pinned-projects) |
 | 📖 [free e-books](#-free-e-books-brazilian-portuguese) | 📝 [writing & thinking](#-writing--thinking) | 
 | 🔭 [explorations](#-current-explorations) | |
 
@@ -47,7 +47,7 @@ currently building tool for simulated conversation system with ai supervision fo
 
 ---
 
-### 📦 pinned projects
+### 📌 pinned projects
 
 | project | description |
 |---------|-------------|
