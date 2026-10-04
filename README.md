@@ -27,7 +27,7 @@ my work moves across four fronts:
 created the **[triple track agile](https://calionauta.medium.com/triple-track-agile-problem-space-solution-space-81c2c6b7bf24)** approach. wrote *a e-book to building products with short learning cycles* and *strategy and innovation with jobs to be done*, in portuguese.
 at **[timeproduto.](https://timeproduto.vercel.app/)** i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
 the **[`stelow`](https://github.com/calionauta/stelow)** workflow and skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
-→ [github.com/renatocaliari](https://github.com/renatocaliari) · [linkedin](https://www.linkedin.com/in/calionauta/)
+→ [github.com/calionauta](https://github.com/calionauta) · [linkedin](https://www.linkedin.com/in/calionauta/)
 
  #### ai agents & skills
  
