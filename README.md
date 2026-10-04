@@ -8,9 +8,8 @@
 | | |
 |---|---|
 | 🧪 [what i do](#what-i-do) | ⚡ [ai · workflow & agent skills](#ai--workflow--agent-skills) |
-| 🛠️ [what i build with](#️-what-i-build-with-lately) | 📦 [pinned projects](#-pinned-projects) |
-| 📖 [free e-books](#-free-e-books-brazilian-portuguese) | 📝 [writing & thinking](#-writing--thinking) |
-| 🔭 [explorations](#-current-explorations) | |
+| 📦 [pinned projects](#-pinned-projects) | 📖 [free e-books](#-free-e-books-brazilian-portuguese) | 
+| 📝 [writing & thinking](#-writing--thinking) | 🔭 [explorations](#-current-explorations) | |
 
 ---
    
@@ -48,74 +47,18 @@ currently building tool for simulated conversation system with ai supervision fo
 
 ---
 
-### ⚡ ai · workflow & agent skills
-
-i create specialized ai agent skills for product discovery, qualitative research, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
-
-#### featured: [`stelow`](https://github.com/calionauta/stelow) — opinionated product workflow. stellar clarity. low friction.
-
-`stelow` coordinates **28 skills** — **14 workflow** (the delivery machinery: entry, router, orchestrator + stage/execution skills) and **14 product** (strategy playbooks + domain tactics, reference-only). the design draws on 2025–2026 research — parallel orchestration (CAID), cross-session learning (Cat), visual review gates (Plannotator), AI-aware mutation testing. i also document 16 known limitations of what AI still gets wrong, even with this structure. it's designed to **amplify human judgment**, not replace it.
-
-state mechanics run through stelow's own CLI (`scripts/stelow`: `status`/`advance`/`doctor`/`seed`/`schema`/`ask`) — no host-specific code. the 14 workflow skills ship inside [bb-plugin-stelow](https://github.com/calionauta/bb-plugin-stelow) (kanban board + inbox + `bb stelow` worker CLI, auto-synced from the stelow repo); the 14 product skills install standalone via `npx skills add calionauta/stelow`.
-
-| layer | role | skills | count |
-|-------|------|--------|:-----:|
-| 🎛️ **workflow control-plane** | bootstrap + navigation | `entry` · `router` · `orchestrator` | 3 |
-| ⚙️ **workflow stages** | pipeline steps | `shape-up` · `plan-critique` · `codebase-critique` · `ux-critique` · `interface-alternatives` · `tech-planning` · `testing-ai-code` · `testing-execution` · `scope-executor` · `execution-critique` · `coding-standards` | 11 |
-| 🧠 **product strategies** | upfront exploration | `product-discovery` · `job-to-be-done` · `evolutionary-principles` · `opportunity-mapping` · `multi-method-market-analysis` | 5 |
-| 📘 **product tactics** | on-demand reference | `ads` · `pricing` · `promotions` · `paywall` · `trust-building` · `health` · `marketplace-playbook` · `business-models` · `open-source` | 9 |
-| | | **total** | **28** |
-
-#### other key skills
-
-| skill | domain | description |
-|-------|--------|-------------|
-| [`cali-agents-md-generator`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-agents-md-generator/) | 📝 workflow | generate / maintain project AGENTS.md |
-| [`cali-agents-md-validator`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-agents-md-validator/) | 📝 workflow | validate AGENTS.md against best practices |
-| [`cali-coding-standards`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-coding-standards/) | 💻 coding | universal principles — KISS, DRY, LoB, SoC, Fail Fast + size limits & CI enforcement |
-| [`cali-ops-deploy-github-tailscale`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-deploy-github-tailscale/) | 🚀 ops | deploy to private servers via tailscale |
-| [`cali-ops-docker-server-dashboard`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-docker-server-dashboard/) | 🚀 ops | server discovery & real-time docker dashboard |
-| [`cali-ops-github-releases`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-github-releases/) | 🚀 ops | github release automation |
-| [`cali-coding-go-stack`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-coding-go-stack/) | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
-| [`cali-coding-go-standards`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-coding-go-standards/) | 💻 coding | go project conventions and best practices |
-| [`cali-ops-package-audit`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-package-audit/) | 🚀 ops | supply chain security audit — socket.dev, trivy, osv-scanner, dotenvx |
-| [`cali-questions-quality`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-questions-quality/) | 🎙️ research | evaluate interview scripts & qualitative research |
-| [`cali-ops-server-security`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-ops-server-security/) | 🚀 ops | server security audit and hardening |
-| [`cali-skill-validator`](https://github.com/calionauta/agent-sync-public/tree/main/skills/local/cali-skill-validator/) | 📝 workflow | validate agent skills against best practices |
-| [and more](https://github.com/calionauta/agent-sync-public) | … | … |
-
-### ⚙️ the pipeline
-
-> **[pi.dev](https://pi.dev/)** + **[custom skills](https://github.com/calionauta/stelow)**
->
-> I set the stage upstream — questions, critiques, planning convos, detailed scopes. Then the AI runs inside the fences. I still sneak in when something feels off. The results surprise me more often than not.
-
----
-
-### 🛠️ what i build with lately
-
-```
-🐹 go · ✨ templ · 🔀 chi · ⚡ datastar · 🗄️ sqlite
-```
-
-~ no javascript frameworks, no runtime deps, no huge node_modules — just type-safe go, server-side reactivity via SSE, and a single binary you can deploy anywhere.
-
----
-
 ### 📦 pinned projects
 
 | project | description |
 |---------|-------------|
+| ⭐ 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated agentic product workflow orchestrator for ai agents and humans. ai agents less like coding assistants, more like cross-functional product team. visual host: [bb-plugin-stelow](https://github.com/calionauta/bb-plugin-stelow) |
+| ⭐ 🐹 [gogogo](https://github.com/calionauta/gogogo) | go web app template, batteries included. single binary, zero external services, llm-friendly |
 | 🔄 [agent-sync](https://github.com/calionauta/agent-sync) | agent configuration sync ecosystem |
 | 🌐 [agent-sync-public](https://github.com/calionauta/agent-sync-public) | public-facing agent sync & skill distribution |
 | ⚡ [datastar-lint](https://github.com/calionauta/datastar-lint) | linter for datastar HTML attributes. language-agnostic. |
-| 🐹 [gogogo](https://github.com/calionauta/gogogo) | go web app template, batteries included. single binary, zero external services, llm-friendly |
 | 🖥️ [server-blueprint](https://github.com/calionauta/server-blueprint) | versioned blueprint of the server stack. sanitized configs, scripts, runbook, agent skills, rebuild-from-scratch procedure |
 | 🛡️ [pi-leakguard](https://github.com/calionauta/pi-leakguard) | leak guard for pi.dev - blocks llm access to sensitive paths, egress dlp, taint tracking, and secret redaction. |
 | 🔧 [pi-tool-repair-layer](https://github.com/calionauta/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
-| 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated agentic product workflow orchestrator for ai agents and humans. ai agents less like coding assistants, more like cross-functional product team. visual host: [bb-plugin-stelow](https://github.com/calionauta/bb-plugin-stelow) |
-| ⭐ [bb-plugin-stelow](https://github.com/calionauta/bb-plugin-stelow) | Turn humans and AI agents into a cross-functional product team: research opportunity spaces with 14 strategy playbooks, then deliver through an orchestrated workflow. One board, one quiet inbox |
-
 ---
 
 ### 📖 free e-books (brazilian portuguese)
