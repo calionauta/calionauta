@@ -53,6 +53,7 @@ currently building tool for simulated conversation system with ai supervision fo
 |---------|-------------|
 | ⭐ 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated agentic product workflow orchestrator for ai agents and humans. ai agents less like coding assistants, more like cross-functional product team. visual host: [bb-plugin-stelow](https://github.com/calionauta/bb-plugin-stelow) |
 | ⭐ 🐹 [gogogo](https://github.com/calionauta/gogogo) | go web app template, batteries included. single binary, zero external services, llm-friendly |
+| 🗺️ [sessionmap](https://github.com/calionauta/sessionmap) | real-time markdown <> mind map |
 | 🔄 [agent-sync](https://github.com/calionauta/agent-sync) | agent configuration sync ecosystem |
 | 🌐 [agent-sync-public](https://github.com/calionauta/agent-sync-public) | public-facing agent sync & skill distribution |
 | ⚡ [datastar-lint](https://github.com/calionauta/datastar-lint) | linter for datastar HTML attributes. language-agnostic. |
