@@ -29,10 +29,8 @@ at **[timeproduto.](https://timeproduto.vercel.app/)** i map product workflow st
 the **[`stelow`](https://github.com/calionauta/stelow)** workflow and skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
 → [github.com/calionauta](https://github.com/calionauta) · [linkedin](https://www.linkedin.com/in/calionauta/)
 
- #### ai agents & skills
- 
- 🤖 30+ open skills for product discovery, coding, qualitative research, and workflow automation. an agent ecosystem.
- → [github.com/calionauta/agent-sync-public](https://github.com/calionauta/agent-sync-public)
+ #### building with and for ai agents
+- explore my 📌 [pinned projects](#-pinned-projects)
  
  #### culture & organizational design
 
