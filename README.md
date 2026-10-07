@@ -15,35 +15,35 @@
    
 ## what i do
 
-i explore how product teams and organizations can replace rigid frameworks with lighter, more adaptive ways of working. my path — software development, product management, hr leadership, self-management consulting, and education — gave me a front-row seat to the frictions that drain energy and multiply unnecessary complexity. today i support people at every level, from c-level to product and people teams, helping them design their own ways of working rather than selling ready-made models.
+i explore how product teams and organizations can replace rigid frameworks with lighter, more adaptive ways of working. 
+my path — software development, product management, hr leadership, self-management consulting, and education — gave me a front-row seat to the frictions that drain energy and multiply unnecessary complexity. today i support people at every level, from c-level to product and people teams, helping them design their own ways of working rather than selling ready-made models.
 
 i help people and groups navigate complex contexts — in their relationship with themselves, in organizational settings, and in digital product creation. 
 
 my work moves across four fronts:
 
+### 🟢 product discovery, job to be done & innovation
 
-### product discovery, job to be done & innovation
+- created the **[triple track agile](https://calionauta.medium.com/triple-track-agile-problem-space-solution-space-81c2c6b7bf24)** approach. 
+- wrote 2 ebooks: *building products with short learning cycles* and *strategy and innovation with jobs to be done*, in portuguese.
+- created **[timeproduto.](https://timeproduto.vercel.app/)** where i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
+- **[`stelow`](https://github.com/calionauta/stelow)**, opinionated agentic product workflows and strategies.
 
-created the **[triple track agile](https://calionauta.medium.com/triple-track-agile-problem-space-solution-space-81c2c6b7bf24)** approach. wrote *a e-book to building products with short learning cycles* and *strategy and innovation with jobs to be done*, in portuguese.
-at **[timeproduto.](https://timeproduto.vercel.app/)** i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
-the **[`stelow`](https://github.com/calionauta/stelow)** workflow and skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
-→ [github.com/calionauta](https://github.com/calionauta) · [linkedin](https://www.linkedin.com/in/calionauta/)
+### 🟢 building with ai agents, for humans + AI agents
 
-
-### building with ai agents, for humans + AI agents
-🔄 opinionated agentic product workflows, single-binary zero-dependency web boilerplate ai-ready, and autonomous pipelines.
-→ explore my 📌 [pinned projects](#-pinned-projects)
+- 🔄 opinionated agentic product workflows, single-binary zero-dependency web boilerplate ai-ready, and autonomous pipelines.
+- explore my 📌 [pinned projects](#-pinned-projects)
  
-### culture & organizational design
+### 🟢 culture & organizational design
 
-🔄 culture & organizational design — structural experiments, alternatives to traditional corporate rituals (performance reviews, 1:1s, 360s), decentralized decision-making through a complex systems lens. supporting c-level to team leads, teams, and individuals.
- → [linkedin](https://www.linkedin.com/in/calionauta/)
+- 🔄 culture & organizational design — structural experiments, alternatives to traditional corporate rituals (performance reviews, 1:1s, 360s), decentralized decision-making through a complex systems lens. supporting c-level to team leads, teams, and individuals.
 
-### participatory facilitation & narrative therapy
+### 🟢 participatory facilitation & narrative therapy
 
-🌀 liberating structures, group dynamics, and original facilitation processes. training and certification in narrative therapy (in progress). i also build ai tools that support narrative practices (practice library, landscape compass, therapist training simulator
-currently building tool for simulated conversation system with ai supervision for therapist training.
-→ [calionauta.com](https://calionauta.com/) · [linkedin](https://www.linkedin.com/in/calionauta/)
+- 🌀 liberating structures, group dynamics, and original facilitation processes. 
+- training and certification in narrative therapy (in progress).
+- i also build ai tools that support narrative practices (practice library, landscape compass, therapist training simulator
+- currently building tool for simulated conversation system with ai supervision for therapist training.
 
 ---
 
