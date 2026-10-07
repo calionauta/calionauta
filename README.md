@@ -29,10 +29,10 @@ at **[timeproduto.](https://timeproduto.vercel.app/)** i map product workflow st
 the **[`stelow`](https://github.com/calionauta/stelow)** workflow and skills come from years inside real teams — consulting, leading, and experimenting across different organizations. they're not abstract theory.
 → [github.com/calionauta](https://github.com/calionauta) · [linkedin](https://www.linkedin.com/in/calionauta/)
 
- #### building with and for ai agents
-- explore my 📌 [pinned projects](#-pinned-projects)
+#### building with ai agents, for humans + AI agents
+→ explore my 📌 [pinned projects](#-pinned-projects)
  
- #### culture & organizational design
+#### culture & organizational design
 
 🔄 culture & organizational design — structural experiments, alternatives to traditional corporate rituals (performance reviews, 1:1s, 360s), decentralized decision-making through a complex systems lens. supporting c-level to team leads, teams, and individuals.
  → [linkedin](https://www.linkedin.com/in/calionauta/)
