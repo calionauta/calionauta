@@ -31,6 +31,10 @@ the **[`stelow`](https://github.com/calionauta/stelow)** workflow and skills com
 
 #### building with ai agents, for humans + AI agents
 → explore my 📌 [pinned projects](#-pinned-projects)
+
+### building with ai agents, for humans + AI agents
+🔄 opinionated agentic product workflows, single-binary zero-dependency web boilerplate ai-ready, and autonomous pipelines.
+→ explore my 📌 [pinned projects](#-pinned-projects)
  
 #### culture & organizational design
 
