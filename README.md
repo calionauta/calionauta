@@ -24,7 +24,7 @@ my work moves across four fronts:
 
 ### 🟢 product discovery, job to be done & innovation
 
-- created the **[triple track agile](https://calionauta.medium.com/triple-track-agile-problem-space-solution-space-81c2c6b7bf24)** approach. 
+- created the **[triple track agile](https://calionauta.medium.com/triple-track-agile-problem-space-solution-space-81c2c6b7bf24)** approach. used in product leadership training at product schools in Brazil.
 - wrote 2 ebooks: *building products with short learning cycles* and *strategy and innovation with jobs to be done*, in portuguese.
 - created **[timeproduto.](https://timeproduto.vercel.app/)** where i map product workflow stages, tools for each, and publish articles on product careers, design, dev, and ai impact — all in portuguese.
 - **[`stelow`](https://github.com/calionauta/stelow)**, opinionated agentic product workflows and strategies.
