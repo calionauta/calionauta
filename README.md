@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | 🧪 [what i do](#what-i-do) | 📌 [pinned projects](#-pinned-projects) |
-| 📖 [free e-books](#-free-e-books-brazilian-portuguese) | 📝 [writing & thinking](#-writing--thinking) | 
+| 📖 [my e-books](#-free-e-books-brazilian-portuguese) | 📝 [writing & thinking](#-writing--thinking) | 
 | 🔭 [explorations](#-current-explorations) | |
 
 ---
