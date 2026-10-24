@@ -53,6 +53,7 @@ my work moves across four fronts:
 |---------|-------------|
 | ⭐ 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated agentic product workflow orchestrator for ai agents and humans. ai agents less like coding assistants, more like cross-functional product team. visual host: [bb-plugin-stelow](https://github.com/calionauta/bb-plugin-stelow) |
 | ⭐ 🐹 [gogogo](https://github.com/calionauta/gogogo) | go web app template, batteries included. single binary, zero external services, llm-friendly |
+| ⚙️ [turvez](https://github.com/calionauta/turvez) | solo consultancy runtime for durable client automations. dagnats + 1 go worker, git-versioned recipes, human approvals, per-client fieldbooks |
 | 🗺️ [sessionmap](https://github.com/calionauta/sessionmap) | real-time markdown <> mind map |
 | 🔄 [agent-sync](https://github.com/calionauta/agent-sync) | agent configuration sync ecosystem |
 | 🌐 [agent-sync-public](https://github.com/calionauta/agent-sync-public) | public-facing agent sync & skill distribution |
