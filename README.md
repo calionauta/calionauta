@@ -59,7 +59,8 @@ my work moves across four fronts:
 | 🌐 [agent-sync-public](https://github.com/calionauta/agent-sync-public) | public-facing agent sync & skill distribution |
 | ⚡ [datastar-lint](https://github.com/calionauta/datastar-lint) | linter for datastar HTML attributes. language-agnostic. |
 | 🖥️ [server-blueprint](https://github.com/calionauta/server-blueprint) | versioned blueprint of the server stack. sanitized configs, scripts, runbook, agent skills, rebuild-from-scratch procedure |
-| 🛡️ [pi-leakguard](https://github.com/calionauta/pi-leakguard) | leak guard for pi.dev - blocks llm access to sensitive paths, egress dlp, taint tracking, and secret redaction. |
+| 🤖 [stelow](https://github.com/calionauta/stelow) | opinionated agentic product workflow orchestrator for ai agents and humans. ai agents less like coding assistants, more like cross-functional product team |
+| 🛡️ [leakguard](https://github.com/calionauta/leakguard) | secret-exposure seatbelt for ai coding agents - blocks credential paths, blocks egress, redacts tool output. one detection engine ([betterleaks](https://github.com/betterleaks/betterleaks), 471 rules), two hosts: pi.dev and opencode. |
 | 🔧 [pi-tool-repair-layer](https://github.com/calionauta/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
 ---
 
